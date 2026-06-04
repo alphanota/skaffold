@@ -27,7 +27,6 @@ Huge thanks goes out to all of our contributors for this release:
 
 - Angel Montero
 - Darien Lin
-- dependabot[bot]
 
 # v2.21.0 Release - 05/20/2026
 **Linux amd64**
